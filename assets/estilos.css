@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#div-cabecalho{
+    background-image: url("piano.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    width: 100vw;
+    height: 70vh;
+    border-radius: 0 0 0 120px; 
+    
+}
+
+#div-texto-cabecalho{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    width: 500px;
+    height: 500px;
+    text-shadow: 3px 2px 2px #050505;
+}
+
+#titulo{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 90px;
+    padding-top: 15px;
+    text-shadow: -5px 2px 2px #ffffff;
+
+}
+#subtitulo{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    text-shadow: 3px 2px 2px #ffffff;
+}
+
