@@ -5,4 +5,5 @@ Portifólio Pessoal
 
 - [x] - Adicionar arquivo css para usar o vw e vh na imagem
 - [x] - Editar as bordas e texto
+- [x] - Adicionar sessão sobre eu
 - [ ] - Adicionar os módulos de teoria
