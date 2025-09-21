@@ -45,24 +45,48 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 30px;
     width: 100%;
-    
+    padding-top: 200px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 #div-nossa-historia > img{
-    width: 1000px;
-    height: 800px;
-    border-radius: 100px; 
+    width: 800px;
+    height: 600px;
+    border-radius: 100px;
+    
 }
 
 #nossaHistoria{
-    color: black;
+    color: rgb(56, 25, 5);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 40px;
+    font-size: 70px;
     word-wrap: break-word;
 }
 
 
 #texto-nossa-historia{
     padding: 15px;
+    text-align: justify;
+}
+
+.btn-redondo{
+    width: 50px;           /* largura */
+  height: 50px;          /* altura */
+  border-radius: 50%;    /* deixa redondo */
+  border: none;          /* remove a borda */
+  background: rgb(56, 25, 5);   /* cor de fundo */
+  color: white;          /* cor do texto */
+  cursor: pointer;
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+}
+
+#botao-redondo{
+    padding-top: 100px;
+    display: flex;
+    gap: 15px;
+    justify-content: right;
 }
 
